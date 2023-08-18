@@ -22,6 +22,6 @@
   <img align="center" alt="Victurs-ReactNative" height="40" width="150" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <br>
 <div> 
-  <a href="https://www.linkedin.com/in/victor-hugo-gomes-571779271/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://br.linkedin.com/in/victurs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   
