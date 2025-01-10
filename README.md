@@ -1,6 +1,6 @@
 ### Hello World, eu sou o Victor Hugo (victurs) ! 
 
-👾 Estudando Desenvolvimentos de Sistemas 
+Atuo como suporte técnico as serviços do Poupatempo, e sou estudante na área de Ciências da Computação e formado em Desenvolvimentos de Sistemas!
 
 <picture>
 <source 
